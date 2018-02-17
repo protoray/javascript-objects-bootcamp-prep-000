@@ -5,7 +5,7 @@ var playlist =
   
 };
 
-function updatePlaylist()
+function updatePlaylist(playlist)
 {
   
 }
