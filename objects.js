@@ -4,3 +4,8 @@ var playlist =
   song: ''
   
 };
+
+function updatePlaylist()
+{
+  
+}
