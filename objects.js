@@ -8,5 +8,6 @@ var playlist =
 function updatePlaylist(playlist, artistName, songTitle)
 {
   
-  return playlist[artistName] = artistName
+   playlist[artistName] = artistName;
+  
 }
