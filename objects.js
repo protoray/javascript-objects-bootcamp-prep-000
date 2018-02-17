@@ -1,1 +1,1 @@
-var playlist{test: ''}
+var playlist = {test: ''}
