@@ -1,6 +1,6 @@
 var playlist = 
 {
   artist:'',
-  songs: ''
+  song: ''
   
 };
