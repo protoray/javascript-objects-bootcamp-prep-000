@@ -5,7 +5,7 @@ var playlist =
   
 };
 
-function updatePlaylist(playlist, name, title)
+function updatePlaylist(playlist, artistName, songTitle)
 {
   
 }
